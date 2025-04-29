@@ -15,5 +15,4 @@ do
     i=$((i + 1))
 done
 
-# Display the result
 echo "Factorial of $num is: $fact"
